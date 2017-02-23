@@ -1,7 +1,5 @@
 # hello-world
 
-Hi there
-
-Some day i will travel around the world.
-
-Just wait for me.
+Imagine there's no heaven
+No hell below us
+Above us only sky
